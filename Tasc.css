@@ -1,0 +1,13 @@
+.all {
+    color: #926239;
+    font-family: sans-serif;
+    text-align: center;
+    }
+.config-t {
+    font-size: 50px;
+    margin: 0 10px;
+}    
+.block {
+    display: block;
+}
+ 
